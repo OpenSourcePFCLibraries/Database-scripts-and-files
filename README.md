@@ -1,6 +1,6 @@
 # Database-scripts-and-files
 
-PEAT is for the demo applicatoin
+PEAT is for the demo application
 EASDEMO is for the example application
 PFC is for the main framework, primarily needed if you use the PFC security service.
 
