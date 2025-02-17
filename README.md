@@ -9,4 +9,6 @@ The *.db files are the original SQL Anywhere database files.\
 The *17.db files are the same databases migrated to version 17 of SQL Anywhere.\
 The *sql_server.bak files are the same databases migrated to SQL Server 2022.
 
+The individual files can be downloaded directly from the [Releases link](https://github.com/OpenSourcePFCLibraries/Database-scripts-and-files/releases/tag/1.0).
+
 
